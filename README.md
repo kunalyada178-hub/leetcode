@@ -18,8 +18,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kunalyada178-hub/leetcode/tree/master/0012-integer-to-roman) |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kunalyada178-hub/leetcode/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
