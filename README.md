@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/kunalyada178-hub/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/kunalyada178-hub/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/kunalyada178-hub/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
