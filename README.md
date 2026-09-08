@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/kunalyada178-hub/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## Greedy
@@ -40,10 +41,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/kunalyada178-hub/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalyada178-hub/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
