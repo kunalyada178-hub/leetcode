@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kunalyada178-hub/leetcode/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/kunalyada178-hub/leetcode/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/kunalyada178-hub/leetcode/tree/master/0205-isomorphic-strings) |
 | [0621-task-scheduler](https://github.com/kunalyada178-hub/leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kunalyada178-hub/leetcode/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/kunalyada178-hub/leetcode/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
